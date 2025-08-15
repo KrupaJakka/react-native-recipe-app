@@ -1,0 +1,13 @@
+{
+  "name": "react-native-recipe-app-1",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">🍽️ React Native Recipe App 🍽️</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "expo start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
